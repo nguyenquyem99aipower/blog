@@ -8,6 +8,7 @@ django = "==2.1"
 gunicorn = "==19.9.0"
 djangorestframework = "*"
 pillow = "*"
+whitenoise = "*"
 
 [dev-packages]
 
